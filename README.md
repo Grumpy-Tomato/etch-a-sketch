@@ -1,2 +1,2 @@
 # etch-a-sketch
-Etch-a-Sketch using flexbox
+grid style Etch-a-Sketch using flexbox
